@@ -1,0 +1,1 @@
+URL Shortener with Batch Processing: Shorten multiple URLs at once, saving time for users who need to manage many links!
